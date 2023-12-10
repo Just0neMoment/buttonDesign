@@ -121,7 +121,7 @@ main button {
     z-index: -1;
 }
 
-.button3:active {
+.button3:hover {
     border-width: 4px 0 0;
     background: none;
 }
@@ -156,10 +156,4 @@ main button {
     75% {
         left: 30px;
     }
-}
-
-
-
-.button5 {
-
 }
